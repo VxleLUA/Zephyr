@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/VxleLUA/Zephyr/new/main/System"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VxleLUA/Zephyr/main/System/WL.lua"))()
