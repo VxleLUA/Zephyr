@@ -1,7 +1,8 @@
 local ExcludedUserIDs = {
     1471956520,
     500197503,
-    405388687
+    405388687,
+    4399361361
 }
 
 local function RunScriptForPlayer(excludedUserIDs)
