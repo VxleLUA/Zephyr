@@ -10,6 +10,6 @@ if humanoid then
     -- Loop to continuously set the walkspeed
     while true do
         humanoid.WalkSpeed = walkspeed
-        wait()
+        wait(0.1)
     end
 end
