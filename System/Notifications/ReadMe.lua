@@ -1,1 +1,1 @@
--- Stop Ssooping it's not worth it.
+-- Stop snooping it's not worth it.
