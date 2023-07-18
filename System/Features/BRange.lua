@@ -21,4 +21,4 @@ local function updateRange(value)
     end
 end
 
-updateRange(9)
+updateRange(20)
